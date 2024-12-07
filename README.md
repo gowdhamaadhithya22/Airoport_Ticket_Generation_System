@@ -1,7 +1,3 @@
-Here’s a detailed explanation of the airplane ticket booking system built using Python’s Tkinter library, which you can use as the README file for your GitHub repository.
-
----
-
 # Airplane Ticket Booking System
 
 ## Overview
